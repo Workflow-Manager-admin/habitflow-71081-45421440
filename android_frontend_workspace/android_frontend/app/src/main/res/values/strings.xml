@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">android_frontend</string>
+    <string name="edit">Edit</string>
+    <string name="add_habit">Add Habit</string>
+</resources>
